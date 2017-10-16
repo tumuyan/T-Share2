@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">T-Share</string>
+    <string name="title_home">Switch</string>
+    <string name="title_dashboard">Link</string>
+    <string name="title_notifications">Open</string>
+    <string name="content_Atype">Share Content:\r\n</string>
+    <string name="content_Ctype">Clipboard Content:\r\n</string>
+    <string name="content_Empty">Empty</string>
+
+
+
+</resources>
